@@ -1,0 +1,3 @@
+﻿  rec.cpp
+C:\Users\Данил\source\repos\recursion\recursion\rec.cpp(18,1): warning C4715: Sum: значение возвращается не при всех путях выполнения
+  recursion.vcxproj -> C:\Users\Данил\source\repos\recursion\x64\Debug\recursion.exe
